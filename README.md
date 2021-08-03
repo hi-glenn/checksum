@@ -1,5 +1,6 @@
 # checksum
 
+Forked from david-hoze/checksum_calculation.md
 
 This is a reconstruction of http://www.roman10.net/2011/11/27/how-to-calculate-iptcpudp-checksumpart-2-implementation/
 The site is gone so I took it from the archive for the sake of [C Programming TCP Checksum's answer](https://stackoverflow.com/a/51269953/1346426)
